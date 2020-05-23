@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6.1">
+<file name="E:\Travel-Mate-master\Android\app\src\androidTest\java\io\github\travelmate\ApplicationTest.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\CardViewOptionsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\ContributorsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\ImageAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\NestedListView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\RestaurantsCardViewAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\adapters\TimezoneAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\CitiesTravelledAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\DeleteProfilePictureActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\FullScreenImage.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\HomeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\MainActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\ProfileActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\SettingsFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\SplashActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\TravelMateApplication.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\VerifyEmailActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\CityAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\CityFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\CityHistoryActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\CityHistoryAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\CityImageSliderAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\CityMapActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\FinalCityInfoActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\FinalCityInfoPresenter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\FinalCityInfoView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\PlacesOnMapActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\RestaurantsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\TweetsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\TweetsDescriptionActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\TweetsDescriptionAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\TweetsRecyclerAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\WeatherActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\description\WeatherAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\funfacts\FunFactsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\funfacts\FunFactsPresenter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\funfacts\FunFactsView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\destinations\funfacts\FunfactFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\favourite\FavouriteCitiesAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\favourite\FavouriteCitiesFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\friend\FriendCityRecyclerAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\friend\FriendsProfileActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\friend\MutualTripsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\friend\MyFriendsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\friend\MyFriendsFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\login\LoginActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\login\LoginPresenter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\login\LoginView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\AddNewTripActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\MyTripFriendNameAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\MyTripInfoActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\MyTripsFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\TripImageActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\mytrips\TripsListAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\notifications\NotificationsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\notifications\NotificationsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\BooleanConverter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\ChecklistDataSource.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\ChecklistItemDAO.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\ChecklistViewModel.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\DbChecklist.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\Injection.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\roompersistence\ViewModelFactory.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\searchcitydialog\CitySearchBottomSheetDialogFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\searchcitydialog\CitySearchModel.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\HotelsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\ListViewRealTimeActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\MapViewRealTimeActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\ShoppingAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\ShoppingCurrentCityActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\TravelFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\MapListItemAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\ViewPageFragmentsAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\AtmModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\BusStopModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\EatModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\HangoutSpotFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\HospitalModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\MonumentsModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\PetrolModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\travel\swipefragmentrealtime\modefragments\ShoppingModeFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\AboutUsFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\AddBugFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\AnalogClock.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\BugReportAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\BugReportFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ChecklistActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ChecklistAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ChecklistDragCallback.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ChecklistFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ChecklistItemDiffCallback.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\CompassActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ContributorsFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\CurrencyActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\CurrencyConverterAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\CurrencyListViewActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\CustomAnalogClock.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\DailyQuotesFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\DialOverlay.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\HandsOverlay.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\QuotesActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\ShareContactActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\TimezoneConverterAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\TimezoneListViewActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\UpcomingWeekendsActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\UpcomingWeekendsListAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\UtilitiesFragment.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\WeatherForecastActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\com\gradlic\travelmate\utilities\WorldClockActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\dao\CityDao.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\dao\WidgetCheckListDao.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\database\AppDataBase.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\database\Converters.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\flipviewpager\adapter\BaseFlipAdapter.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\flipviewpager\utils\FlipSettings.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\flipviewpager\view\FlipViewPager.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\ChecklistItem.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\City.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\CityHistoryListItem.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Contributor.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Feedback.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\FriendCity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\FunFact.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\MapItem.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Notification.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Quote.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\QuoteGroup.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Trip.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Tweet.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\TweetDescription.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\UpcomingWeekends.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\User.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\Weather.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\objects\ZoneName.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\CardItemEntity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\CircleImageView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\Compass.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\Constants.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\CurrencyConverterGlobal.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\DailyQuotesManager.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\DateUtils.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\ExpandableHeightGridView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\ExpandableTextView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\GPSTracker.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\RestaurantItemEntity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\TouchImageView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\TravelMateAnalogClock.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\TravelmateSnackbars.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\Utils.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\WeatherUtils.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\utils\WhatsNewStrings.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\views\FontTextView.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\CheckListProvider.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\CheckListWidgetItem.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\CheckListWidgetProvider.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\CheckListWidgetService.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\ClockWidget.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\main\java\widget\ClockWidgetConfigureActivity.java">
+</file>
+<file name="E:\Travel-Mate-master\Android\app\src\test\java\utils\DateUtilsTest.java">
+</file>
+</checkstyle>
